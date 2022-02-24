@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xyzKatezyx
-- 👀 I’m interested in learning javascript and making websites;
+- 👀 I’m interested in learning web development and app development;
 - 🌱 I’m currently learning basic coding to become familar; 
-- 💞️ I’m looking to collaborate on javascript, HTML5
+- 💞️ My plan is to apply to @vetswhocode
 - 📫 How to reach me kathleen.wooden@hotmail.com
 
 <!---
